@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @it21020230
+- 👋 Hi, I’m Kithmina Siriwardana
 - 🌱 Registration number: IT21020230
 - 🌱 GitHub username: it21020230
 - 🌱 Student name: Kithmina Siriwardana (Siriwardana S.M.K.S. it21020230)
