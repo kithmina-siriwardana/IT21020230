@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kithmina Siriwardana
-- 🌱 Registration number: IT21020230
 - 🌱 GitHub username: it21020230
-- 🌱 Student name: Kithmina Siriwardana (Siriwardana S.M.K.S. it21020230)
+
+I am a Software Engineering undergraduate at SLIIT who is willing to try new things and technologies. And I am good at achieving goals on time. I am highly motivated and eager to learn new things and gain more experience.
 
 <!---
 it21020230/it21020230 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
