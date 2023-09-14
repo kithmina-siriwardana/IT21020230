@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kithmina Siriwardana
-- 🌱 GitHub username: it21020230
+- 🌱 GitHub username: IT21020230
 
 I am a Software Engineering undergraduate at SLIIT who is willing to try new things and technologies. And I am good at achieving goals on time. I am highly motivated and eager to learn new things and gain more experience.
 
